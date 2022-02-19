@@ -1,0 +1,7 @@
+[submodule "modules/Pico_CapTouch_ePaper"]
+	path = modules/Pico_CapTouch_ePaper
+	url = https://github.com/waveshare/Pico_CapTouch_ePaper.git
+[submodule "modules/micropython-waveshare-epaper"]
+	path = modules/micropython-waveshare-epaper
+	url = https://github.com/mcauser/micropython-waveshare-epaper.git
+	
