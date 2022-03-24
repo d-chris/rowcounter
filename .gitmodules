@@ -4,4 +4,6 @@
 [submodule "modules/micropython-waveshare-epaper"]
 	path = modules/micropython-waveshare-epaper
 	url = https://github.com/mcauser/micropython-waveshare-epaper.git
-	
+[submodule "modules/Touch_e-Paper_HAT"]
+	path = modules/Touch_e-Paper_HAT
+	url = https://github.com/waveshare/Touch_e-Paper_HAT.git
